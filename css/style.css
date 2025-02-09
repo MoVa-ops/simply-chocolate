@@ -41,7 +41,9 @@ button {
 .nav-list-item-link {
     color: #fd9222;
 }
-.hero {}
+.hero {
+    background-color: #1E1823
+}
 
 .hero-title {
     font-weight: 500;
