@@ -95,3 +95,50 @@ button {
         color: rgba(255, 255, 255, 0.7);
 }
 /* #endregion Introduction */
+/* #region Secret chocolate */
+.secret {}
+
+.secret-title {
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #111;
+}
+
+.secret-title-word {
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fd9222;
+}
+
+.secret-text {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: #111;
+}
+
+.secret-list {}
+
+.secret-list-item {}
+
+.secret-images {}
+
+.secret-images-text {
+    font-weight: 600;
+        font-size: 14px;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        color: #111;
+}
+/* #endregion Secret chocolate */
