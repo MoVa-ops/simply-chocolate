@@ -186,3 +186,53 @@ button {
         color: #111;
 }
 /* #endregion How to make chocolate? */
+/* #region Review */
+.review {}
+
+.review-title {font-weight: 600;
+    font-size: 24px;
+    line-height: 1.16;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+    text-align: center;
+    color: #111;
+
+.review-title-word {
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fd9222;
+}
+
+.review-list {}
+
+.review-item {}
+
+.review-images {}
+
+.review-name {
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33;
+        text-align: center;
+        color: #111;
+}
+
+.review-name-text {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+        text-align: center;
+        color: rgba(17, 17, 17, 0.7);
+}
+
+.review-btn {
+    font-weight: 600;
+        font-size: 18px;
+        color: #111;
+}
+/* #endregion Review */
