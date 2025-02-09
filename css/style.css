@@ -189,13 +189,15 @@ button {
 /* #region Review */
 .review {}
 
-.review-title {font-weight: 600;
+.review-title {
+    font-weight: 600;
     font-size: 24px;
     line-height: 1.16;
     letter-spacing: -0.03em;
     text-transform: uppercase;
     text-align: center;
     color: #111;
+}
 
 .review-title-word {
     font-weight: 600;
