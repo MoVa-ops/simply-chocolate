@@ -142,3 +142,47 @@ button {
         color: #111;
 }
 /* #endregion Secret chocolate */
+/* #region How to make chocolate? */
+.make {}
+
+.make-title {
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #111;
+}
+
+.make-title-word {
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 1.16;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fd9222;
+}
+
+.make-image {}
+
+.make-name {
+    font-weight: 600;
+        font-size: 18px;
+        line-height: 1.33;
+        color: #111;
+}
+
+.make-name-list {}
+
+.make-name-list-item {}
+
+.make-name-list-text {
+    font-weight: 400;
+        font-size: 14px;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+        color: #111;
+}
+/* #endregion How to make chocolate? */
