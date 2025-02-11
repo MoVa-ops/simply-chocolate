@@ -1,298 +1,341 @@
 body {
-font-family: "Montserrat", sans-serif;
-    background-color: #fafafa;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #fafafa;
 }
-ul, ol {
-    list-style-type: none;
+ul,
+ol {
+  list-style-type: none;
 }
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 /* #region Header */
 button {
-    font-family: "Montserrat", sans-serif;
-        cursor: pointer;
+  font-family: 'Montserrat', sans-serif;
+  cursor: pointer;
 }
-.main-header {}
+.main-header {
+}
 
-.logo {font-style: normal;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.11;
-    letter-spacing: -0.03em;
-    color: #111;}
+.logo {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.11;
+  letter-spacing: -0.03em;
+  color: #111;
+}
 
 .logo-span {
-    font-style: italic;
+  font-style: italic;
 }
 
-.nav {}
+.nav {
+}
 
-.nav-list {}
+.nav-list {
+}
 
-.nav-list-item {}
+.nav-list-item {
+}
 .nav-list-item-link {
-    font-weight: 500;
-        font-size: 14px;
-        line-height: 1.14;
-        letter-spacing: -0.02em;
-        color: #111;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+  color: #111;
 }
 /* #endregion Header */
 /* #region Hero */
 .hero {
-    background-color: #1E1823;
+  background-color: #1e1823;
 }
 
 .hero-title {
-    font-weight: 500;
-        font-size: 28px;
-        line-height: 1.21;
-        letter-spacing: -0.03em;
-        color: #fff;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.03em;
+  color: #fff;
 }
 
 .hero-button {
-    font-weight: 600;
-        font-size: 14px;
-        color: #fff;
-        background-color: #fd9222;
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
+  background-color: #fd9222;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+  color: #fd9222;
+  background-color: #fcf1e0;
 }
 
 .hero-link {
-    font-weight: 600;
-    font-size: 14px;
-    color: #fff;
-
+  font-weight: 600;
+  font-size: 14px;
+  color: #fff;
 }
+
+.hero-link:hover,
+.hero-link:focus {
+  color: #fd9222;
+}
+
 .down-link {
-    font-weight: 500;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.03em;
-        color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.03em;
+  color: #fff;
+}
+
+.down-link:hover,
+.down-link:focus {
+  color: #fd9222;
 }
 /* #endregion Hero */
 /* #region Introduction */
 .introduction {
-    background-color: #1E1823;
+  background-color: #1e1823;
 }
 
-.list {}
+.list {
+}
 
-.list-item {}
+.list-item {
+}
 
 .list-item-title {
-    font-weight: 600;
-        font-size: 18px;
-        color: #fff;
+  font-weight: 600;
+  font-size: 18px;
+  color: #fff;
 }
 
 .list-item-text {
-    font-weight: 400;
-        font-size: 14px;
-        letter-spacing: -0.02em;
-        color: rgba(255, 255, 255, 0.7);
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: -0.02em;
+  color: rgba(255, 255, 255, 0.7);
 }
 /* #endregion Introduction */
 /* #region Secret chocolate */
-.secret {}
+.secret {
+}
 
 .secret-title {
-    font-weight: 600;
-        font-size: 24px;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
-        text-transform: uppercase;
-        text-align: center;
-        color: #111;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
 }
 
 .secret-title-word {
-    font-weight: 600;
-        font-size: 24px;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
-        text-transform: uppercase;
-        text-align: center;
-        color: #fd9222;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fd9222;
 }
 
 .secret-text {
-    font-weight: 400;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.02em;
-        text-align: center;
-        color: #111;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #111;
 }
 
-.secret-list {}
+.secret-list {
+}
 
-.secret-list-item {}
+.secret-list-item {
+}
 
-.secret-images {}
+.secret-images {
+}
 
 .secret-images-text {
-    font-weight: 600;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.02em;
-        text-transform: uppercase;
-        color: #111;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  text-transform: uppercase;
+  color: #111;
 }
 /* #endregion Secret chocolate */
 /* #region How to make chocolate? */
-.make {}
+.make {
+}
 
 .make-title {
-    font-weight: 600;
-        font-size: 24px;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
-        text-transform: uppercase;
-        text-align: center;
-        color: #111;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
 }
 
 .make-title-word {
-    font-weight: 600;
-        font-size: 24px;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
-        text-transform: uppercase;
-        text-align: center;
-        color: #fd9222;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fd9222;
 }
 
-.make-image {}
+.make-image {
+}
 
 .make-name {
-    font-weight: 600;
-        font-size: 18px;
-        line-height: 1.33;
-        color: #111;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  color: #111;
 }
 
-.make-name-list {}
+.make-name-list {
+}
 
-.make-name-list-item {}
+.make-name-list-item {
+}
 
 .make-name-list-text {
-    font-weight: 400;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.02em;
-        color: #111;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  color: #111;
 }
 /* #endregion How to make chocolate? */
 /* #region Review */
-.review {}
+.review {
+}
 
 .review-title {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 1.16;
-    letter-spacing: -0.03em;
-    text-transform: uppercase;
-    text-align: center;
-    color: #111;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #111;
 }
 
 .review-title-word {
-    font-weight: 600;
-        font-size: 24px;
-        line-height: 1.16;
-        letter-spacing: -0.03em;
-        text-transform: uppercase;
-        text-align: center;
-        color: #fd9222;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.16;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fd9222;
 }
 
-.review-list {}
+.review-list {
+}
 
-.review-item {}
+.review-item {
+}
 
-.review-images {}
+.review-images {
+}
 
 .review-name {
-    font-weight: 600;
-        font-size: 18px;
-        line-height: 1.33;
-        text-align: center;
-        color: #111;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 1.33;
+  text-align: center;
+  color: #111;
 }
 
 .review-name-text {
-    font-weight: 400;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.02em;
-        text-align: center;
-        color: rgba(17, 17, 17, 0.7);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: rgba(17, 17, 17, 0.7);
 }
 
 .review-btn {
-    font-weight: 600;
-        font-size: 18px;
-        color: #111;
+  font-weight: 600;
+  font-size: 18px;
+  color: #111;
 }
 /* #endregion Review */
 /* #region Footer */
 .footer {
-    background-color: #1E1823;
+  background-color: #1e1823;
 }
 
 .footer-title {
-    font-weight: 500;
-        font-size: 28px;
-        line-height: 1.21;
-        letter-spacing: -0.02em;
-        color: #fff;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.02em;
+  color: #fff;
 }
 
 .footer-title-word {
-    font-weight: 500;
-        font-size: 28px;
-        line-height: 1.21;
-        letter-spacing: -0.02em;
-        color: #fd9222;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 1.21;
+  letter-spacing: -0.02em;
+  color: #fd9222;
 }
 
 .footer-text {
-    font-weight: 500;
-        font-size: 14px;
-        line-height: 1.28;
-        text-align: center;
-        color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.28;
+  text-align: center;
+  color: #fff;
 }
 
-.footer-address {}
+.footer-address {
+}
 
-.footer-address-list {}
+.footer-address-list {
+}
 
-.footer-address-item {}
+.footer-address-item {
+}
 
 .footer-address-link {
-    font-weight: 400;
-        font-size: 14px;
-        line-height: 1.28;
-        letter-spacing: -0.02em;
-        text-align: center;
-        color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.28;
+  letter-spacing: -0.02em;
+  text-align: center;
+  color: #fff;
 }
 
-.footer-nav {}
+.footer-nav {
+}
 
-.footer-nav-list {}
+.footer-nav-list {
+}
 
-.footer-nav-list-item {}
+.footer-nav-list-item {
+}
 
 .footer-nav-list-item-link {
-    font-weight: 500;
-        font-size: 14px;
-        line-height: 1.14;
-        letter-spacing: -0.02em;
-        color: #fff;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: -0.02em;
+  color: #fff;
 }
 /* #endregion Footer */
