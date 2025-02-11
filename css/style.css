@@ -90,6 +90,7 @@ button {
 .hero {
   background-color: #1e1823;
   margin-bottom: 72px;
+  border-radius: 30px;
 }
 
 .hero-content {
