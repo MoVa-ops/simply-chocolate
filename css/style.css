@@ -277,7 +277,8 @@ button {
 
 .review-btn:hover,
 .review-btn:focus {
-  color: #fd9222;
+  color: #fff;
+  background-color: #fd9222;
 }
 /* #endregion Review */
 /* #region Footer */
