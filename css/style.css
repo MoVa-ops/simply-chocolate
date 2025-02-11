@@ -89,6 +89,7 @@ button {
 /* #region Hero */
 .hero {
   background-color: #1e1823;
+  margin-bottom: 72px;
 }
 
 .hero-content {
