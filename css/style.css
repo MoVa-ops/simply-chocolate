@@ -36,6 +36,8 @@ button {
   cursor: pointer;
 }
 .main-header {
+  padding-top: 28px;
+  padding-bottom: 28px;
 }
 
 .logo {
@@ -45,6 +47,10 @@ button {
   line-height: 1.11;
   letter-spacing: -0.03em;
   color: #111;
+}
+
+.header-logo {
+  margin-right: 631px;
 }
 
 .logo-span {
@@ -72,12 +78,17 @@ button {
   background-color: #1e1823;
 }
 
+.hero-content {
+  padding: 375px 72px 46px 72px;
+}
+
 .hero-title {
   font-weight: 500;
   font-size: 28px;
   line-height: 1.21;
   letter-spacing: -0.03em;
   color: #fff;
+  margin-bottom: 32px;
 }
 
 .hero-button {
