@@ -274,6 +274,11 @@ button {
   font-size: 18px;
   color: #111;
 }
+
+.review-btn:hover,
+.review-btn:focus {
+  color: #fd9222;
+}
 /* #endregion Review */
 /* #region Footer */
 .footer {
