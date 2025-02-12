@@ -85,6 +85,11 @@ button {
   letter-spacing: -0.02em;
   color: #111;
 }
+.nav-list-item-link:hover,
+.nav-list-item-link:focus {
+  color: #fd9222;
+}
+
 /* #endregion Header */
 /* #region Hero */
 .hero {
