@@ -404,10 +404,8 @@ button {
   color: #fff;
 }
 
-.footer-nav
-  .footer-nav-list-item-link:hover
-  .footer-nav
-  .footer-nav-list-item-link:focus {
+.footer-nav .footer-nav-list-item-link:hover,
+.footer-nav .footer-nav-list-item-link:focus {
   color: #fd9222;
 }
 /* #endregion Footer */
